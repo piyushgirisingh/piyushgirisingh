@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushgirisingh
 - 👀 I’m interested in AI Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Source Projects.
 
 
