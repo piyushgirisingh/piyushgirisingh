@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyushgirisingh
+- 👋 Hi, I’m Piyush Singh
 - 👀 I’m interested in AI Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Source Projects.
